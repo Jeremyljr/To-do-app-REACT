@@ -9,8 +9,8 @@
 body {
   background: linear-gradient(
     90deg,
-    rgba(48, 16, 255, 1) 0%,
-    rgba(100, 115, 255, 1) 100%
+    rgb(255, 145, 0) 0%,
+    rgb(255, 232, 100) 100%
   );
 }
 .todo-app {
@@ -19,7 +19,7 @@ body {
   justify-content: start;
   width: 520px;
   min-height: 600px;
-  background: #161a2b;
+  background: #000000;
   text-align: center;
   margin: 128px auto;
   border-radius: 10px;
